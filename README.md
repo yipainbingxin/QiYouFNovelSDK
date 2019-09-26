@@ -7,4 +7,7 @@ defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder
 新增加内容
 
 
-aghalkfjakljfskjfljklasdjfkla
+aghalkfjakljfskjfljklasdjfkl密密麻麻
+
+
+我是新来的第二行内容
